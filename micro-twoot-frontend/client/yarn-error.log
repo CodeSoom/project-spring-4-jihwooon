@@ -1,0 +1,41 @@
+Arguments: 
+  /usr/local/bin/node /opt/homebrew/Cellar/yarn/1.22.10/libexec/bin/yarn.js add reacrt react-dom next sass axios
+
+PATH: 
+  /Users/jihwooon/.asdf/shims:/opt/homebrew/opt/asdf/libexec/bin:/Users/jihwooon/ .jenv/bin:/opt/homebrew/sbin:/opt/homebrew/bin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Apple/usr/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/jihwooon/.composer/vendor/bin:/Library/Java/JavaVirtualMachines/zulu-11.jdk/Contents/Home/bin:
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  16.13.1
+
+Platform: 
+  darwin arm64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/reacrt: Not found
+      at Request.params.callback [as _callback] (/opt/homebrew/Cellar/yarn/1.22.10/libexec/lib/cli.js:66988:18)
+      at Request.self.callback (/opt/homebrew/Cellar/yarn/1.22.10/libexec/lib/cli.js:140749:22)
+      at Request.emit (node:events:390:28)
+      at Request.<anonymous> (/opt/homebrew/Cellar/yarn/1.22.10/libexec/lib/cli.js:141721:10)
+      at Request.emit (node:events:390:28)
+      at IncomingMessage.<anonymous> (/opt/homebrew/Cellar/yarn/1.22.10/libexec/lib/cli.js:141643:12)
+      at Object.onceWrapper (node:events:509:28)
+      at IncomingMessage.emit (node:events:402:35)
+      at endReadableNT (node:internal/streams/readable:1343:12)
+      at processTicksAndRejections (node:internal/process/task_queues:83:21)
+
+npm manifest: 
+  {
+    "name": "client",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
