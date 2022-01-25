@@ -34,6 +34,9 @@ dependencies {
     // Spring Developer Tools
     developmentOnly("org.springframework.boot:spring-boot-devtools")
 
+    // AssertJ
+    testImplementation 'org.assertj:assertj-core:3.18.1'
+
 }
 
 application {
