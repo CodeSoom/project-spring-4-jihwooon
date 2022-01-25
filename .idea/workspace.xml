@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20dc6306-c560-42d5-9b2f-a7198eedb5ed" name="Changes" comment="Changes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/micro-twoot-backend/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/micro-twoot-backend/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-twoot-backend/app/src/main/java/com/micro/twoot/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/micro-twoot-backend/app/src/main/java/com/micro/twoot/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-twoot-backend/app/src/main/java/com/micro/twoot/models/Feed.java" beforeDir="false" afterPath="$PROJECT_DIR$/micro-twoot-backend/app/src/main/java/com/micro/twoot/models/Feed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-twoot-frontend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-twoot-frontend/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +18,7 @@
     <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/micro-twoot-backend" />
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="oemt74kf" />
@@ -31,6 +30,7 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="248gyDU4AGZbto8O6g4WorH3s7Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
