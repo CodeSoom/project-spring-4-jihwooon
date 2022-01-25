@@ -8,9 +8,7 @@ class FeedTest {
 
     @Test
     void createFeed() {
-        Feed feed = new Feed();
-        feed.setId(1L);
-        feed.setContent("트윗!");
+        Feed feed = new Feed(1L, "트윗!");
 
         assertThat(feed.getId()).isEqualTo(1L);
         assertThat(feed.getId()).isNotEqualTo(2L);
