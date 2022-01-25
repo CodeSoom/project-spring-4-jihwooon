@@ -3,3 +3,8 @@
 /workspace.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+
+# except modules
+node_modules/
+dist/*
+*.log
